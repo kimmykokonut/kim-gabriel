@@ -1,0 +1,19 @@
+h1 h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.flashy {
+    color: red;
+    font-style: italic;
+}
+
+#best {
+    color: purple;
+    font-family: fantasy;
+    text-decoration: underline;
+}
+
+body {
+    background-color: grey;
+    text-align: center;
+}
